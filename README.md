@@ -1,4 +1,5 @@
 # Chương trình mô phỏng tính năng ngân hàng cơ bản bằng C++
+-----
 
 ## Các tính năng:
 ```
@@ -49,5 +50,6 @@ Menu:
 
 -----
 ## Tác giả: Nguyễn Trường Chinh (NTC++)
+
 
 
