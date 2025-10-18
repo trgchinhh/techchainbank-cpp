@@ -45,5 +45,6 @@ Menu:
 ## Lịch sử giao dịch 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/853b1c3f-f051-4108-9446-375cd8d1b553" />
 
-
+-----
 ## Tác giả: Nguyễn Trường Chinh (NTC++)
+
