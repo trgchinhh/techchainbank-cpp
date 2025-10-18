@@ -3,6 +3,8 @@
 
 ## Các tính năng:
 ```
+Tên: TechChainBank (Techology BlockChain Banking)
+
 Menu: 
     + Đăng nhập và đăng xuất 
     + Nạp tiền 
@@ -65,4 +67,5 @@ Menu:
 
 -----
 ## Tác giả: Nguyễn Trường Chinh (NTC++)
+
 
