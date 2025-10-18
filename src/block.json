@@ -1,0 +1,28 @@
+[
+    {
+        "chi_so": 0,
+        "ma_truoc": "0",
+        "thoigian": "17:40:21 18-10-2025",
+        "nonce": 0,
+        "ma_hash": "657839600d0fcd8da0999b12ed847cf9f81624867f77053420e4ae29818cccb4",
+        "giao_dich": {
+            "nguoi_gui": "He Thong",
+            "nguoi_nhan": "Ngan Hang TCB",
+            "so_tien": 0,
+            "thoigian": "17:40:21 18-10-2025"
+        }
+    },
+    {
+        "chi_so": 1,
+        "ma_truoc": "657839600d0fcd8da0999b12ed847cf9f81624867f77053420e4ae29818cccb4",
+        "thoigian": "17:41:18 18-10-2025",
+        "nonce": 115353,
+        "ma_hash": "0000093b4b9556869bcffe71c9fcdd7b7b85ee77d0fa5e1c50c9299ea7aff393",
+        "giao_dich": {
+            "nguoi_gui": "chinh",
+            "nguoi_nhan": "thanhphuc",
+            "so_tien": 2000000,
+            "thoigian": "17:41:18 18-10-2025"
+        }
+    }
+]

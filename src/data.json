@@ -1,0 +1,86 @@
+[
+    {
+        "ten_nguoi_dung": "chinh",
+        "mat_khau": "3004",
+        "so_du": 4400000,
+        "so_tai_khoan": "5457102565",
+        "lich_su_chuyen_khoan": [
+            "06:57:25 18-10-2025 da chuyen: 200000 VND den STK: 1015410056",
+            "07:02:34 18-10-2025 da chuyen: 300000 VND den STK: 9855555356",
+            "07:19:37 18-10-2025 da chuyen: 150000 VND den STK: 5499100994",
+            "07:23:54 18-10-2025 da chuyen: 200000 VND den STK: 1015410056",
+            "07:26:32 18-10-2025 da chuyen: 100000 VND den STK: 9855555356",
+            "08:09:00 18-10-2025 da chuyen: 150000 VND den STK: 5499100994",
+            "09:50:23 18-10-2025 da chuyen: 100000 VND den STK: 9855555356",
+            "09:59:10 18-10-2025 da chuyen: 250000 VND den STK: 5499100994",
+            "10:13:30 18-10-2025 da chuyen: 600000 VND den STK: 1024857565",
+            "10:19:57 18-10-2025 da chuyen: 200000 VND den STK: 1024857565",
+            "10:23:17 18-10-2025 da chuyen: 700000 VND den STK: 1024857565",
+            "15:55:52 18-10-2025 da chuyen: 500000 VND den STK: 1024857565",
+            "16:29:32 18-10-2025 da chuyen: 20000 VND den STK: 9855555356",
+            "16:48:53 18-10-2025 da chuyen: 1500000 VND den STK: 1015410056",
+            "16:50:11 18-10-2025 da chuyen: 1000000 VND den STK: 1015410056",
+            "16:56:04 18-10-2025 da chuyen: 10000 VND den STK: 1024857565",
+            "17:20:50 18-10-2025 da chuyen: 100000 VND den STK: 5499100994",
+            "17:23:16 18-10-2025 da chuyen: 300000 VND den STK: 1015410056",
+            "17:25:04 18-10-2025 da chuyen: 3250000 VND den STK: 9855555356",
+            "17:36:38 18-10-2025 da chuyen: 20000 VND den STK: 1024857565",
+            "17:41:18 18-10-2025 da chuyen: 2000000 VND den STK: 1024857565"
+        ]
+    },
+    {
+        "ten_nguoi_dung": "giabao",
+        "mat_khau": "2206",
+        "so_du": 3150000,
+        "so_tai_khoan": "1015410056",
+        "lich_su_chuyen_khoan": [
+            "06:57:25 18-10-2025 da nhan: 200000 VND tu STK: 5457102565",
+            "07:03:55 18-10-2025 da chuyen: 50000 VND den STK: 5499100994",
+            "07:23:54 18-10-2025 da nhan: 200000 VND tu STK: 5457102565",
+            "16:48:53 18-10-2025 da nhan: 1500000 VND tu STK: 5457102565",
+            "16:50:11 18-10-2025 da nhan: 1000000 VND tu STK: 5457102565",
+            "17:23:16 18-10-2025 da nhan: 300000 VND tu STK: 5457102565"
+        ]
+    },
+    {
+        "ten_nguoi_dung": "khanh",
+        "mat_khau": "1234",
+        "so_du": 3770000,
+        "so_tai_khoan": "9855555356",
+        "lich_su_chuyen_khoan": [
+            "07:02:34 18-10-2025 da nhan: 300000 VND tu STK: 5457102565",
+            "07:26:32 18-10-2025 da nhan: 100000 VND tu STK: 5457102565",
+            "09:50:23 18-10-2025 da nhan: 100000 VND tu STK: 5457102565",
+            "16:29:32 18-10-2025 da nhan: 20000 VND tu STK: 5457102565",
+            "17:25:04 18-10-2025 da nhan: 3250000 VND tu STK: 5457102565"
+        ]
+    },
+    {
+        "ten_nguoi_dung": "antran",
+        "mat_khau": "0000",
+        "so_du": 700000,
+        "so_tai_khoan": "5499100994",
+        "lich_su_chuyen_khoan": [
+            "07:03:55 18-10-2025 da nhan: 50000 VND tu STK: 1015410056",
+            "07:19:37 18-10-2025 da nhan: 150000 VND tu STK: 5457102565",
+            "08:09:00 18-10-2025 da nhan: 150000 VND tu STK: 5457102565",
+            "09:59:10 18-10-2025 da nhan: 250000 VND tu STK: 5457102565",
+            "17:20:50 18-10-2025 da nhan: 100000 VND tu STK: 5457102565"
+        ]
+    },
+    {
+        "ten_nguoi_dung": "thanhphuc",
+        "mat_khau": "1812",
+        "so_du": 4030000,
+        "so_tai_khoan": "1024857565",
+        "lich_su_chuyen_khoan": [
+            "10:13:30 18-10-2025 da nhan: 600000 VND tu STK: 5457102565",
+            "10:19:57 18-10-2025 da nhan: 200000 VND tu STK: 5457102565",
+            "10:23:17 18-10-2025 da nhan: 700000 VND tu STK: 5457102565",
+            "15:55:52 18-10-2025 da nhan: 500000 VND tu STK: 5457102565",
+            "16:56:04 18-10-2025 da nhan: 10000 VND tu STK: 5457102565",
+            "17:36:38 18-10-2025 da nhan: 20000 VND tu STK: 5457102565",
+            "17:41:18 18-10-2025 da nhan: 2000000 VND tu STK: 5457102565"
+        ]
+    }
+]
