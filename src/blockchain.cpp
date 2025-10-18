@@ -34,7 +34,35 @@ string Block::tinhHash() const {
 // Blockchain
 Blockchain::Blockchain(int dokho) {
     this->do_kho = dokho;
-    chuoi.push_back(taoBlockGoc());
+    //chuoi.push_back(taoBlockGoc());
+    docFile(file_block); 
+    if (chuoi.empty()) {
+        chuoi.push_back(taoBlockGoc());
+    }
+}
+
+void Blockchain::docFile(const string &tenfile) {
+    ifstream f(tenfile);
+    if (!f.is_open()) return;  
+    json j;
+    f >> j;
+    chuoi.clear(); 
+    for (auto &blockData : j) {
+        GiaoDich gd(
+            blockData["giao_dich"]["nguoi_gui"],
+            blockData["giao_dich"]["nguoi_nhan"],
+            "0000", 
+            "0000", 
+            blockData["giao_dich"]["so_tien"],
+            blockData["giao_dich"]["thoigian"]
+        );
+
+        Block b(blockData["chi_so"], blockData["ma_truoc"], gd);
+        b.nonce = blockData["nonce"];
+        b.ma_hash = blockData["ma_hash"];
+        b.thoigian = blockData["thoigian"];
+        chuoi.push_back(b);
+    }
 }
 
 Block Blockchain::taoBlockGoc() {
