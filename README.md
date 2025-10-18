@@ -13,16 +13,18 @@ Menu:
 
 ## Thư mục:
 ```
-├── 📝 Readme.md
-├── ⚡ caidat.cpp
-├── ⚡ chuongtrinh.cpp
-├── ⚙️ chuongtrinh.exe
-├── ⚙️ data.json
-├── ⚡ json.hpp
-├── ⚡ picosha2.h
-├── ⚡ qrcodegen.cpp
-├── ⚡ qrcodegen.hpp
-└── ⚡ thuvien.h
+├── 📁 src
+│   ├── 📁 lib
+│   │   ├── ⚡ json.hpp
+│   │   ├── ⚡ picosha2.h
+│   │   ├── ⚡ qrcodegen.cpp
+│   │   └── ⚡ qrcodegen.hpp
+│   ├── ⚡ caidat.cpp
+│   ├── ⚡ chuongtrinh.cpp
+│   ├── ⚙️ chuongtrinh.exe
+│   ├── ⚙️ data.json
+│   └── ⚡ thuvien.h
+└── 📝 Readme.md
 ```
 
 ## Lưu ý: 
@@ -47,4 +49,5 @@ Menu:
 
 -----
 ## Tác giả: Nguyễn Trường Chinh (NTC++)
+
 
