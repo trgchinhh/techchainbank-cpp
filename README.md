@@ -60,12 +60,7 @@ Menu:
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1a5b4d3-4877-46cb-a75b-2c9ed11f297d" />
 
 ## Lịch sử giao dịch 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/11297bb2-2ffb-4669-96c6-8bec84a47c57" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/148d7c7a-7e26-43cd-b041-14293e8d5b31" />
 
 ## Lịch sử block
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2c2da653-ef8b-4dfc-867c-4490dab5aa2a" />
-
------
-## Tác giả: Nguyễn Trường Chinh (NTC++)
-
-
+<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9900a315-b952-47cc-af1d-64cadd7f48f8" />
