@@ -257,10 +257,10 @@ void xem_so_tai_khoan(TaiKhoanDangNhap& taikhoan){
     for (auto& tai_khoan : ds_tai_khoan) {
         string ten = tai_khoan["ten_nguoi_dung"];
         if (ten == taikhoan.ten_nguoi_dung) {
-            cout << endl;
-            cout << "\t┌──────────────────────────────┐" << endl;
-            cout << "\t├> So tai khoan: " << tai_khoan["so_tai_khoan"] << "  │" << endl;
-            cout << "\t└──────────────────────────────┘" << endl;
+            //cout << endl;
+            //cout << "\t┌──────────────────────────────┐" << endl;
+            cout << tai_khoan["so_tai_khoan"] << endl;
+            //cout << "\t└──────────────────────────────┘" << endl;
             break;
         }
     }
