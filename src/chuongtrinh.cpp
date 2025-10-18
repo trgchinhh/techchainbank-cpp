@@ -48,26 +48,24 @@ int main(){
                 in_banner();
                 cout << "┌──────────────────── TCBank ────────────────────" << endl;
                 cout << "├• [Tai khoan] " << taikhoan.ten_nguoi_dung << endl;
-                cout << "│     └──> [*] So du: " << xem_so_du(taikhoan) << " VND" << endl;
-                cout << "├• 1. Xem so tai khoan" << endl;
-                cout << "├• 2. Xem ma Qrbank" << endl;  
-                cout << "├• 3. Nhap so du" << endl;
-                cout << "├• 4. Chuyen khoan" << endl;
-                cout << "├• 5. Xem lich su giao dich" << endl;
-                cout << "├• 6. Xem chuoi blockchain" << endl;
-                cout << "├• 7. Dang xuat" << endl;
+                cout << "│    │  └──> [*] So du: " << xem_so_du(taikhoan) << " VND" << endl;
+                cout << "│    └──> [*] So tai khoan: "; xem_so_tai_khoan(taikhoan); 
+                cout << "│" << endl;
+                cout << "├• 1. Xem ma Qrbank" << endl;  
+                cout << "├• 2. Nhap so du" << endl;
+                cout << "├• 3. Chuyen khoan" << endl;
+                cout << "├• 4. Xem lich su giao dich" << endl;
+                cout << "├• 5. Xem chuoi blockchain" << endl;
+                cout << "├• 6. Dang xuat" << endl;
                 cout << "└──────────> Ban chon: "; char z = getche();
                 cout << endl;
-                if (z == '1'){
-                    xem_so_tai_khoan(taikhoan);
-                    getch();
-                } else if(z == '2'){
+                if(z == '1'){
                     xem_ma_qr(taikhoan);
                     getch();
-                } else if(z == '3'){
+                } else if(z == '2'){
                     nhap_so_du(taikhoan);
                     getch();
-                } else if(z == '4'){
+                } else if(z == '3'){
                     string sotaikhoan2; int so_tien_muon_chuyen; 
                     cin.ignore();
                     cout << "\n\t(?) Nhap so tai khoan muon chuyen: "; getline(cin, sotaikhoan2);
@@ -85,13 +83,13 @@ int main(){
                         ));
                     }
                     getch();
-                } else if(z == '5'){
+                } else if(z == '4'){
                     tra_lich_su_chuyen_khoan(taikhoan);
                     getch();
-                } else if(z == '6'){
+                } else if(z == '5'){
                     blockchain.inChuoi();
                     getch();
-                } else if(z == '7'){
+                } else if(z == '6'){
                     cout << "\n(-) Ban chon dang xuat !" << endl;
                     getch();
                     break;
