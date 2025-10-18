@@ -42,6 +42,7 @@ private:
 
 public:
     Blockchain(int do_kho = do_kho_mac_dinh);
+    void docFile(const string &tenfile);
     void themGiaoDich(const GiaoDich &gd);
     bool kiemTraHopLe() const;
     void luuFile(const string &tenfile) const;
