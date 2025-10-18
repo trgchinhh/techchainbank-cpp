@@ -44,23 +44,25 @@ Menu:
 
 ## Đăng nhập
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c54d24a8-e9b7-4c10-90e5-25b94ecb2396" />
+
 ## Tài khoản
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/7e6483cd-565f-44ca-bd57-b2e857bfdd9c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c43aa593-a62a-44b5-8df2-83f86777cd1c" />
 
 ## Qrbank
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d359c97b-4d2b-4a7f-9462-633776410333" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f898da4-8a38-498c-a226-04828fc7b489" />
 
 ## Nạp tiền 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/0fe6db1e-10ed-47b6-a719-9a8f87b680ee" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6bb3c825-c3ec-460b-86e9-ab056737ce84" />
 
 ## Chuyển tiền
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2a6d2dff-8a7a-469a-b6a6-0ff4cf3805d3" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1a5b4d3-4877-46cb-a75b-2c9ed11f297d" />
 
 ## Lịch sử giao dịch 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a20245d8-b550-409e-b57e-175f5d2d8699" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/11297bb2-2ffb-4669-96c6-8bec84a47c57" />
 
 ## Lịch sử block
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/d2eecda5-76d3-4d1f-a158-767da36d0823" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2c2da653-ef8b-4dfc-867c-4490dab5aa2a" />
 
 -----
 ## Tác giả: Nguyễn Trường Chinh (NTC++)
+
