@@ -17,20 +17,20 @@ Menu:
 
 ## Thư mục:
 ```
-├── 📁 src
-│   ├── 📁 lib
-│   │   ├── ⚡ json.hpp
-│   │   ├── ⚡ picosha2.h
-│   │   ├── ⚡ qrcodegen.cpp
-│   │   └── ⚡ qrcodegen.hpp
-│   ├── ⚙️ block.json
-│   ├── ⚡ blockchain.cpp
-│   ├── ⚡ blockchain.h
-│   ├── ⚡ caidat.cpp
-│   ├── ⚡ chuongtrinh.cpp
-│   ├── ⚙️ data.json
-│   └── ⚡ thuvien.h
-└── 📝 README.md
+├── src
+│   ├── lib
+│   │   ├── json.hpp
+│   │   ├── picosha2.h
+│   │   ├── qrcodegen.cpp
+│   │   └── qrcodegen.hpp
+│   ├── block.json
+│   ├── blockchain.cpp
+│   ├── blockchain.h
+│   ├── caidat.cpp
+│   ├── chuongtrinh.cpp
+│   ├── data.json
+│   └── thuvien.h
+└── README.md
 ```
 
 ## Lưu ý: 
@@ -39,28 +39,31 @@ Menu:
 + Thay đường dẫn đến file lưu thông tin file_data.json
 + Lệnh biên dịch: 
     -> Duy chuyển thư mục đến file ../src/
-    g++ .\chuongtrinh.cpp .\caidat.cpp .\blockchain.cpp -Ilib .\lib\qrcodegen.cpp -o .\chuongtrinh
+    g++ .\chuongtrinh.cpp .\caidat.cpp .\blockchain.cpp .\lib\qrcodegen.cpp -o .\chuongtrinh.exe
 ```
+
+## Hoặc biên dịch và chạy nhanh 
++ Khởi chạy file `khoichay.exe`
 
 # Screenshot
 
-## Đăng nhập
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c54d24a8-e9b7-4c10-90e5-25b94ecb2396" />
+## Đăng ký/ đăng nhập
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/2610970c-bad3-49da-80cf-654b5f27d9db" />
 
 ## Tài khoản
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/c43aa593-a62a-44b5-8df2-83f86777cd1c" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/41fe16c9-d55d-483f-b001-11a62113d602" />
 
 ## Qrbank
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/9f898da4-8a38-498c-a226-04828fc7b489" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8c5697b0-434c-4082-b3dd-bf9b7c63a880" />
 
 ## Nạp tiền 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/6bb3c825-c3ec-460b-86e9-ab056737ce84" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/b59d47ee-fc6f-4cf5-97bf-5ca6993a2f54" />
 
 ## Chuyển tiền
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a1a5b4d3-4877-46cb-a75b-2c9ed11f297d" />
+<img width="1916" height="1079" alt="image" src="https://github.com/user-attachments/assets/615aae07-1d15-42b6-a678-a7d1a27b3c4e" />
 
 ## Lịch sử giao dịch 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/148d7c7a-7e26-43cd-b041-14293e8d5b31" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/15845c8e-8478-4de4-b671-73cd4fe39d09" />
 
 ## Lịch sử block
-<img width="1917" height="1078" alt="image" src="https://github.com/user-attachments/assets/9900a315-b952-47cc-af1d-64cadd7f48f8" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/15a3cb10-e81d-4f61-ba3f-1a60e87e7c92" />
