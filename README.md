@@ -34,17 +34,13 @@ Menu:
 └── README.md
 ```
 
-## Lưu ý: 
+## Biên dịch và khởi chạy
+```bash
+git clone https://github.com/baoxipo/techchainbank-cpp.git
+cd techchainbank-cpp
+g++ ./run.cpp -o ./run.exe
+./run.exe
 ```
-+ Thay đường dẫn đến các file header dùng #include 
-+ Thay đường dẫn đến file lưu thông tin file_data.json
-+ Lệnh biên dịch: 
-    -> Duy chuyển thư mục đến file ../src/
-    g++ .\chuongtrinh.cpp .\caidat.cpp .\blockchain.cpp .\lib\qrcodegen.cpp -o .\chuongtrinh.exe
-```
-
-## Hoặc biên dịch và chạy nhanh 
-+ Khởi chạy file `khoichay.exe`
 
 # Screenshot
 
