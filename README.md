@@ -1,5 +1,5 @@
-
 # Chương trình cơ bản mô phỏng tính năng và ứng dụng của blockchain trong ngân hàng bằng C++
+
 -----
 
 ## Các tính năng:
@@ -64,3 +64,13 @@ g++ ./run.cpp -o ./run.exe
 
 ## Lịch sử block
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/15a3cb10-e81d-4f61-ba3f-1a60e87e7c92" />
+
+---
+
+## Tác giả
+**Trần Minh Gia Bảo**<br>
+**Nguyễn Trường Chinh (Bổ sung)**<br>
+
+---
+
+> 📌 Dự án nhỏ được phát triển với mục đích học tập và nghiên cứu. Mọi góp ý và đóng góp đều được hoan nghênh.
